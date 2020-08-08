@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!--
-**nkosinathintuli/nkosinathintuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**nkosinathintuli/nkosinathintuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+**My name is Nkosinathi my friends call me Martin. I love coding and engineering, I enjoy breaking and playing with stuff and puzzles 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-my name is Nkosinathi Ntuli my friends call me Martin coz they think I'm cool like that ;) and anyone I meet after that. 
+my name is Nkosinathi Ntuli my friends call me Martin coz they think I'm cool like that ;) and anyone I meet after that. I love coding and engineering, I enjoy breaking and playing with stuff and puzzles 
 
 I'm a  student at the University of Cape Town (UCT) studying Electrical & Computer Engineering during the day and a Software Developer at [Zaio](https://www.zaio.io/), Cape Town after hours. I'm part of the Developer Student Clubs (DSC) at UCT currently I'm a Tech Lead and Project Tech Mentor.
 
