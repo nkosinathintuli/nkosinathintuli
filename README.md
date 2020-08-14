@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🎓
 -->
-👨‍💻 🧑‍💼 🧑‍🔬 👨‍🎓 💯 💥 🤖 👽 🤳 ✍ 🙌
+👨‍💻 🧑‍💼 🧑‍🔬 👨‍🎓 💯 💥 🤖 👽 🤳 ✍ 🙌 💤 👨‍🎨 🧑‍✈️ 🦄
 
 My name is Nkosinathi my friends call me Martin coz they think I'm cool like that 😎 and anyone I meet after that 😂. ❤️ I love coding and engineering, I enjoy breaking 😀 and playing with stuff and puzzles.
 
