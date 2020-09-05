@@ -31,6 +31,9 @@ I'm a  student at the University of Cape Town (UCT) studying 🎓 Electrical & C
 <a href="https://www.twitter.com/nksnthntl/">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<a href="https://www.facebook.com/nksnthntl/">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 <!--
 <a href="https://www.instagram.com/nkosinathintulimartin/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
