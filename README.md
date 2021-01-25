@@ -22,7 +22,7 @@ My name is Nkosinathi my friends call me Martin coz they think I'm cool like tha
 I'm a  student at the University of Cape Town (UCT) studying 🎓 Electrical & Computer Engineering during the day and a Software Developer at [Zaio](https://www.zaio.io/), Cape Town after hours. I'm part of the [Developer Student Clubs (DSC) at UCT](https://www.linkedin.com/company/dscuct/) currently I'm a Tech Lead and Project Tech Mentor 👌, and I'm a Microsoft Learn Student Ambassador. 
 
 ---
-<a href="https://www.linkedin.com/in/nkosinathintuli/">
+<a href="https://www.linkedin.com/in/nksnthntl/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/nksnthntl/">
@@ -35,7 +35,7 @@ I'm a  student at the University of Cape Town (UCT) studying 🎓 Electrical & C
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <!--
-<a href="https://www.instagram.com/nkosinathintulimartin/">
+<a href="https://www.instagram.com/nksnthntl/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 -->
