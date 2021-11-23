@@ -4,7 +4,7 @@
 **nkosinathintuli/nkosinathintuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 **My name is Nkosinathi my friends call me Martin. I love coding and engineering, I enjoy breaking and playing with stuff and puzzles 
 Here are some ideas to get you started:
-
+👨‍💻 🧑‍💼 🧑‍🔬 👨‍🎓 💯 💥 🤖 👽 🤳 ✍ 🙌 💤 👨‍🎨 🧑‍✈️ 🦄
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,11 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🎓
 -->
-👨‍💻 🧑‍💼 🧑‍🔬 👨‍🎓 💯 💥 🤖 👽 🤳 ✍ 🙌 💤 👨‍🎨 🧑‍✈️ 🦄
+
 
 My name is Martin. ❤️ I love coding and engineering.
 
-I'm a  student at the University of Cape Town (UCT) studying 🎓 Electrical & Computer Engineering. I'm part of the [Developer Student Clubs (DSC) at UCT](https://www.linkedin.com/company/dscuct/) currently I'm a Tech Lead and Project Tech Mentor 👌, and I'm a Microsoft Learn Student Ambassador. 
+- 🔭 I’m currently working on Microsoft Learn Student Ambassador
+- 🌱 I’m currently learning Data Science (Python)
+- 👯 I’m looking to collaborate on any Web Developemnt projects
+- 💬 Ask me about Web Development, Data Science, Embedded Systems, Electronics 
+- 📫 How to reach me: martin@nkosinathi.codes
+- ⚡ Fun fact: 
+- 🎓 Electrical & Computer Engineering | University of Cape Town (UCT) 🇿🇦 
+
 
 ---
 <a href="https://www.linkedin.com/in/nksnthntl/">
