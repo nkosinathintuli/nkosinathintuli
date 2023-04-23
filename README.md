@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 My name is Martin. ❤️ I love coding and engineering.
 
 - 🔭 I’m currently working on Microsoft Learn Student Ambassador
-- 🌱 I’m currently learning Data Science (Python)
+- 🌱 I’m currently learning Mobile Development (Kotlin)
 - 👯 I’m looking to collaborate on any Web Development projects
 - 💬 Ask me about Web Development, Data Science, Embedded Systems, Electronics 
 - 📫 How to reach me: martin@nkosinathi.codes
